@@ -19,12 +19,14 @@
 </div>
 
 ---
-<img width="802" height="632" alt="Capturar" src="https://github.com/user-attachments/assets/1a621615-cb45-4259-8506-6fa7fe973507" />
+
+<img width="802" height="632" alt="Capturar" src="https://github.com/user-attachments/assets/8b2b2cee-3feb-4e31-af39-3702842ec10b" />
 
 </div>
 
 ---
-<img width="800" height="440" alt="Capturar2" src="https://github.com/user-attachments/assets/4c3422ac-c4a1-48e6-a5d1-ab535b02f7bf" />
+
+<img width="1044" height="574" alt="Capturar2" src="https://github.com/user-attachments/assets/b4fc26cd-9157-4a54-82a3-b83d5ed7d44c" />
 
 </div>
 
